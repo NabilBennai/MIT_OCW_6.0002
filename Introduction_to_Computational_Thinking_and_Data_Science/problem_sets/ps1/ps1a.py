@@ -1,8 +1,7 @@
 ###########################
 # 6.0002 Problem Set 1a: Space Cows
-# Name:
-# Collaborators:
-# Time:
+# Name: Bennai Nabil
+# Time: June 8th 2020
 
 from ps1_partition import get_partitions
 import time
